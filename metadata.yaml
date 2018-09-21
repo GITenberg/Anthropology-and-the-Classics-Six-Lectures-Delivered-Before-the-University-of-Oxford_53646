@@ -1,0 +1,81 @@
+_repo: Anthropology-and-the-Classics-Six-Lectures-Delivered-Before-the-University-of-Oxford_53646
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Evans, Arthur, Sir
+    alias: Evans, Arthur John, Sir
+    birthdate: 1851
+    deathdate: 1941
+    gutenberg_agent_id: '47474'
+    url: http://www.gutenberg.org/2009/agents/47474
+  - agent_name: Fowler, W. Warde (William Warde)
+    aliases:
+    - Fowler, William Warde
+    - Fowler, Warde
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '3907'
+    url: http://www.gutenberg.org/2009/agents/3907
+  - agent_name: Jevons, F. B. (Frank Byron)
+    aliases:
+    - Jevons, Frank Byron
+    - Jevons, Frank B.
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '31260'
+    url: http://www.gutenberg.org/2009/agents/31260
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Byron_Jevons
+  - agent_name: Murray, Gilbert
+    aliases:
+    - Murray, George Gilbert Aime
+    - Murray, George Gilbert Aimé
+    birthdate: &id001 1866
+    deathdate: 1957
+    gutenberg_agent_id: '1681'
+    url: http://www.gutenberg.org/2009/agents/1681
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+  - agent_name: Myres, John Linton, Sir
+    aliases:
+    - Myres, John, Sir
+    - Myres, Sir John Linton
+    birthdate: 1869
+    deathdate: 1954
+    gutenberg_agent_id: '42237'
+    url: http://www.gutenberg.org/2009/agents/42237
+  - agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  editor:
+    agent_name: Marett, R. R. (Robert Ranulph)
+    alias: Marett, Robert Ranulph
+    birthdate: *id001
+    deathdate: 1943
+    gutenberg_agent_id: '7272'
+    url: http://www.gutenberg.org/2009/agents/7272
+description: ''
+gutenberg_issued: '2016-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53646'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Anthropology -- History'
+- !lcsh 'Classical philology'
+- !lcc 'GN'
+- !lcsh 'Picture-writing'
+- GITenberg
+tableOfContents: The European diffusion of primitive pictography and its bearings
+  on the origin of script, by A.J. Evans -- Homer and anthropology, by A. Lang --
+  The early Greek epic, by G.G.A. Murray -- Graeco-Italian magic, by F.B. Jevons --
+  Herodotus and anthropology, by J.L. Myres -- Lustratio, by W.W. Fowler.
+title: 'Anthropology and the Classics
+
+  Six Lectures Delivered Before the University of Oxford'
+url: http://www.gutenberg.org/ebooks/53646
